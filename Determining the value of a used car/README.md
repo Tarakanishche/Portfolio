@@ -25,7 +25,6 @@
 - `sklearn.tree.DecisionTreeRegressor`
 - `sklearn.ensemble.RandomForestRegressor`
 - `catboost.CatBoostRegressor`
-- `catboost.Pool`
 
 ## Общий вывод
 Выполнил анализ данных, обоснованное заполнение пропусков, получил наиболее качественную модель, выполнив проверку на валидационных данных.
