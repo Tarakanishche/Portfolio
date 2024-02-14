@@ -18,9 +18,6 @@
 - `sklearn.metrics.mean_absolute_percentage_error`
 - `sklearn.preprocessing.StandardScaler`
 - `sklearn.model_selection.train_test_split`
-- `sklearn.pipeline.make_pipeline`
-- `sklearn.pipeline.Pipeline`
-- `sklearn.compose.ColumnTransformer`
 - `sklearn.linear_model.LinearRegression`
 - `sklearn.tree.DecisionTreeRegressor`
 - `sklearn.ensemble.RandomForestRegressor`
