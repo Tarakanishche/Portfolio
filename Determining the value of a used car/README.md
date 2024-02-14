@@ -18,7 +18,6 @@
 - `sklearn.metrics.mean_absolute_percentage_error`
 - `sklearn.preprocessing.StandardScaler`
 - `sklearn.model_selection.train_test_split`
-- `sklearn.model_selection.GridSearchCV`
 - `sklearn.pipeline.make_pipeline`
 - `sklearn.pipeline.Pipeline`
 - `sklearn.compose.ColumnTransformer`
