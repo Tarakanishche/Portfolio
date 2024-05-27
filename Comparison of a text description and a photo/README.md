@@ -1,6 +1,6 @@
 # Оценка вероятности дорожно-транспортного происшествия на дороге
 
-[.ipynb](https://github.com/Tarakanishche/Portfolio/blob/main/Comparison%20of%20a%20text%20description%20and%20a%20photo/comparison_photo_and_request.ipynb), [HTML](https://github.com/Tarakanishche/Portfolio/blob/main/Assessment%20of%20the%20probability%20of%20an%20accident%20on%20the%20road/accident_analysis.html)
+[.ipynb](https://github.com/Tarakanishche/Portfolio/blob/main/Comparison%20of%20a%20text%20description%20and%20a%20photo/comparison_photo_and_request.ipynb), [HTML](https://github.com/Tarakanishche/Portfolio/blob/main/Comparison%20of%20a%20text%20description%20and%20a%20photo/comparison_photo_and_request.html)
 
 ## Описание проекта
 
