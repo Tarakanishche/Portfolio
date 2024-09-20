@@ -18,6 +18,7 @@
 - missingno
 - phik
 - copy
+- sklearn
 - `sqlalchemy.create_engine`
 - `sklearn.impute.SimpleImputer`
 - `sklearn.metrics.f1_score`
