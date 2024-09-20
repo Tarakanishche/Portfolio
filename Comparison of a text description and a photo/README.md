@@ -16,6 +16,7 @@
 - numpy
 - matplotlib
 - scipy
+- sklearn
 - torch
 - transformers
 - torchvision
