@@ -15,6 +15,7 @@
 - matplotlib
 - seaborn
 - missingno
+- sklearn
 - `sklearn.impute.SimpleImputer`
 - `sklearn.impute.KNNImputer`
 - `sklearn.metrics.mean_absolute_percentage_error`
